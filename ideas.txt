@@ -1,0 +1,13 @@
+HOME SAFETY AND CARE
+
+gas leakage (barometric sensor)
+street light (motion sensor)
+parking system (motion sensor) 
+gate locking sensor (voltage sensor)
+smart dustbin 
+
+OTHER STUFF
+room heat info (temperature and humidity)
+bomb detection 
+alcohol detection in liquid (color sensor)
+soil moisture

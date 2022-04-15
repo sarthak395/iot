@@ -1,0 +1,6 @@
+temperature and humidity
+LDR (LIGHT SENSOR)
+Water level
+Ultrasonic ( high pitch sound)
+motion sensor (humans)
+Barometric (pressure)
